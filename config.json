@@ -1,0 +1,15 @@
+{
+    "ssh_port": 2222,
+    "ftp_port": 2121,
+    "browser_port": 8080,
+    "file_upload_port": 9090,
+    "smb_port": 1445,
+    "wallet_port": 8081,
+    "smb_host": "0.0.0.0",
+    "ssh_host": "0.0.0.0",
+    "ftp_host": "0.0.0.0",
+    "browser_host": "0.0.0.0",
+    "file_upload_host": "0.0.0.0",
+    "wallet_host": "0.0.0.0"
+
+}
