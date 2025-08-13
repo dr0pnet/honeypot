@@ -1,0 +1,99 @@
+
+#system-monitor {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  background-color: black;
+  color: #66B2FF;
+  font-family: monospace;
+  padding: 10px;
+  border: 2px solid #00ffcc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00ffcc;
+  text-shadow: 0 0 5px #00ffcc;
+  z-index: 9999;
+}
+#failed-traps {
+  color: #FF1493;
+  font-weight: bold;
+}
+#mac-blocker {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  background-color: black;
+  color: #66B2FF;
+  font-family: monospace;
+  padding: 15px;
+  border: 2px solid #FF1493;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #FF1493;
+  z-index: 9999;
+}
+
+#mac-blocker h3 {
+  margin-top: 0;
+  color: #FF1493;
+  font-size: 16px;
+  text-align: center;
+}
+
+#mac-blocker input[type="text"] {
+  
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #888;
+  background-color: #111;
+  color: #00ffcc;
+  margin-bottom: 10px;
+}
+
+#mac-blocker button {
+  
+  padding: 6px;
+  background: #222;
+  color: #FF1493;
+  border: 1px solid #FF1493;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#ip-blocker {
+  position: fixed;
+  top: 150px; /* ⬅️ Adjust this as needed to appear just below */
+  right: 15px;
+  background-color: black;
+  color: #66B2FF;
+  font-family: monospace;
+  padding: 15px;
+  border: 2px solid #FF1493;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #FF1493;
+  z-index: 9998;
+}
+
+#ip-blocker h3 {
+  margin-top: 0;
+  color: #FF1493;
+  font-size: 16px;
+  text-align: center;
+}
+
+#ip-blocker input[type="text"] {
+  
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #888;
+  background-color: #111;
+  color: #00ffcc;
+  margin-bottom: 10px;
+}
+
+#ip-blocker button {
+  
+  padding: 6px;
+  background: #222;
+  color: #FF1493;
+  border: 1px solid #FF1493;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,42 @@
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: monospace;
+    padding: 20px;
+}
+h1, h2 {
+    color: #00ff99;
+}
+.wallet {
+    display: flex;
+    gap: 20px;
+}
+.wallet-card {
+    border: 1px solid #0f0;
+    padding: 15px;
+    width: 200px;
+    background: #111;
+    text-align: center;
+}
+.wallet-card img {
+    margin-top: 10px;
+    width: 100px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #0f0;
+    padding: 8px;
+    text-align: center;
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    background: #111;
+    color: #00ff99;
+    border: 1px solid #0f0;
+    cursor: pointer;
+}
