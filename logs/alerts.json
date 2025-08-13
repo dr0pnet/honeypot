@@ -3,15 +3,5 @@
     "timestamp": "N/A",
     "trap": "System",
     "message": "No alerts yet. Honeypot initialized."
-  },
-  {
-    "timestamp": "2025-08-03 19:43:36",
-    "trap": "Fake Wallet",
-    "message": "[Wallet Trap] Seed export triggered"
-  },
-  {
-    "timestamp": "2025-08-03 19:43:56",
-    "trap": "Fake Wallet",
-    "message": "[Wallet Trap] Seed phrase captured: enter phrase here and alert will trigger"
   }
 ]
