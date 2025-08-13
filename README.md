@@ -154,20 +154,15 @@ consent, you should discontinue use immediately.
 
 ## License
 
+MIT License
 
-DR0PNET Commercial License
 Copyright (c) 2025 Joshua Marr
 
-This software is licensed, not sold. Unauthorized distribution, copying, or reverse engineering is prohibited.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
 
-You may:
-- Install and use the Software on personal or organizational devices
-
-You may not:
-- Modify, reverse-engineer, or redistribute the Software without written permission
-- Use the Software to harm others or violate laws
-
-This software is provided "as is" without warranty. The developer is not responsible for any damage caused by use or misuse of the software.
+This software is open source and released under the MIT License.
 
 By installing or using this software, you agree to these terms.
 
@@ -186,33 +181,21 @@ By downloading, installing, or using the Software, you agree to be bound by thes
 2. License Grant
 You are granted a non-transferable, non-exclusive license to use the Software for personal, research, educational, or commercial use in accordance with the terms stated herein.
 
-3. Restrictions
-You may not:
-- Reverse-engineer, decompile, or disassemble the Software.
-- Modify or create derivative works based on the Software without express permission.
-- Resell, sublicense, or redistribute the Software or its components.
-- Use the Software for any unlawful or malicious purpose.
-
-4. Ownership
-All intellectual property rights in the Software are owned by the Developer. These Terms do not grant you any ownership interest in the Software.
-
-5. Updates
+3. Updates
 The Developer may provide updates to the Software. These Terms apply to all updates unless otherwise specified.
 
-6. Disclaimer of Warranty
+4. Disclaimer of Warranty
 The Software is provided “as is” without warranties of any kind. The Developer does not guarantee that the Software will be error-free, secure, or operate without interruption.
 
-7. Limitation of Liability
+5. Limitation of Liability
 In no event shall the Developer be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Software.
 
-8. Termination
+6. Termination
 These Terms are effective until terminated. Your rights under these Terms will terminate automatically if you fail to comply with them.
 
-9. Governing Law
+7. Governing Law
 These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions.
 
-10. Contact
-For questions regarding these Terms, please contact: dr0pnethp@gmail.com
 
 By using the Software, you acknowledge that you have read, understood, and agreed to these Terms of Use.
 
