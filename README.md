@@ -64,7 +64,6 @@ Each trap is self-contained and runs in its own subprocess. Major modules includ
 - Make sure site-packages are being used per OS, if not install them manually.
 
 
-* * * * * * * * * * How to Use * * * * * * * * * *
 
 ## Launch the honeypot
 ----------------------
