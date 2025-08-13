@@ -4,10 +4,12 @@
     "browser_port": 8080,
     "file_upload_port": 9090,
     "wallet_port": 8081,
+    "decoy_ports": 4444,5555,6666,7777,8888,9999,
     "ssh_host": "0.0.0.0",
     "ftp_host": "0.0.0.0",
     "browser_host": "0.0.0.0",
     "file_upload_host": "0.0.0.0",
-    "wallet_host": "0.0.0.0"
+    "wallet_host": "0.0.0.0",
+    "decoy_ports": "0.0.0.0"
 
 }
