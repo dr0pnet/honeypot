@@ -107,7 +107,7 @@ Each trap is self-contained and runs in its own subprocess. Major modules includ
     - Email: dr0pnethp@gmail.com 
     - Twitter: DR0PNET @dr0pnetHoneyPot
  
-* * * * * * * * * * DR0PNET Honeypot Privacy Disclaimer * * * * * * * * * *
+## DR0PNET Honeypot Privacy Disclaimer
 
 Last Updated
 June 1, 2025
@@ -140,7 +140,7 @@ This system is not intended for public or authorized use. All access attempts ar
 interaction with this system may be reported or disclosed in the event of malicious or illegal behavior.
 
 
-* * * * * * * * * * DR0PNET Honeypot Privacy Disclaimer * * * * * * * * * * 
+## DR0PNET Honeypot Privacy Disclaimer 
 
 
 This application may optionally integrate with trusted APIs (such as GeoIP services) to enhance visibility into
@@ -152,7 +152,7 @@ By interacting with this application, you consent to monitoring and logging as d
 consent, you should discontinue use immediately.
 
 
-* * * * * * * * * * License * * * * * * * * * * 
+## License
 
 
 DR0PNET Commercial License
@@ -172,7 +172,7 @@ This software is provided "as is" without warranty. The developer is not respons
 By installing or using this software, you agree to these terms.
 
 
-* * * * * * * * * * Terms of Use  * * * * * * * * * * 
+## Terms of Use
 
 
 Terms of Use for DR0PNET Honeypot
