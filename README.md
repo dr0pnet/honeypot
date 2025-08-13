@@ -45,16 +45,17 @@ Each trap is self-contained and runs in its own subprocess. Major modules includ
 ## Requirements
 ---------------
 
-| Component               | Purpose                          | 
-|-------------------------|----------------------------------|
-| Python 3.6+             | Main interpreter                 |
-| Flask                   | Flask Server                     |
-| pip                     | Install helper (optional)        | 
-| libpcap-dev (Linux)     | Raw packet sniffing for Scapy    | 
-| Npcap (Windows)         | Raw packet sniffing for Scapy    |
-| python3-tk              | Tkinter pop-up alerts            | 
-| tcpdump (opt.)          | Useful for debugging scans       | 
-| net-tools (opt.)        | Network utilities like `ifconfig`|
+| Component               | Purpose                             | 
+|-------------------------|-------------------------------------|
+| Python 3.6+             | Main interpreter                    |
+| Flask                   | Flask Server                        |
+| pip                     | Install helper (optional)           | 
+| libpcap-dev (Linux)     | Raw packet sniffing for Scapy       | 
+| Npcap (Windows)         | Raw packet sniffing for Scapy       |
+| python3-tk              | Tkinter pop-up alerts               | 
+| tcpdump (opt.)          | Useful for debugging scans          | 
+| net-tools (opt.)        | Network utilities like `ifconfig`   |
+| site-packages           | All site-packages must be installed |
 
 
 ## Troubleshooting
