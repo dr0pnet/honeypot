@@ -100,12 +100,6 @@ Each trap is self-contained and runs in its own subprocess. Major modules includ
 -----------------------
     - Go to settings enter http://<honeypot-pc-ip>:5050
     - Hit save and enable the Auto-refresh switch to see current updates every 10 sec.
-
-## Support
-----------
-    - For help, bug reports, or suggestions, contact:
-    - Email: dr0pnethp@gmail.com 
-    - Twitter: DR0PNET @dr0pnetHoneyPot
  
 ## DR0PNET Honeypot Privacy Disclaimer
 
