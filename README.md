@@ -156,8 +156,6 @@ consent, you should discontinue use immediately.
 
 MIT License
 
-Copyright (c) 2025 Joshua Marr
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
@@ -199,6 +197,3 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 By using the Software, you acknowledge that you have read, understood, and agreed to these Terms of Use.
 
-
-© 2025 Joshua Marr. All rights reserved.  
-“DR0PNET” is a trademark™ of Joshua Marr. Trademark registration pending. 
