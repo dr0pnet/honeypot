@@ -64,7 +64,6 @@ Each trap is self-contained and runs in its own subprocess. Major modules includ
 - Make sure site-packages are being used per OS, if not install them manually.
 
 
-
 ## Launch the honeypot
 ----------------------
     - Run as administrator or root
@@ -101,11 +100,6 @@ Each trap is self-contained and runs in its own subprocess. Major modules includ
     - Go to settings enter http://<honeypot-pc-ip>:5050
     - Hit save and enable the Auto-refresh switch to see current updates every 10 sec.
 
-## Support
-----------
-    - For help, bug reports, or suggestions, contact:
-    - Email: dr0pnethp@gmail.com 
-    - Twitter: DR0PNET @dr0pnetHoneyPot
  
 ## DR0PNET Honeypot Privacy Disclaimer
 
@@ -140,65 +134,4 @@ This system is not intended for public or authorized use. All access attempts ar
 interaction with this system may be reported or disclosed in the event of malicious or illegal behavior.
 
 
-## DR0PNET Honeypot Privacy Disclaimer 
 
-
-This application may optionally integrate with trusted APIs (such as GeoIP services) to enhance visibility into
-the origin of unauthorized connections. No personal user data is sent to these services-only IP addresses.
-
-Your Consent: 
-
-By interacting with this application, you consent to monitoring and logging as described above. If you do not
-consent, you should discontinue use immediately.
-
-
-## License
-
-MIT License
-
-Copyright (c) 2025 Joshua Marr
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-
-This software is open source and released under the MIT License.
-
-By installing or using this software, you agree to these terms.
-
-
-## Terms of Use
-
-
-Terms of Use for DR0PNET Honeypot
-Effective Date: June 2025
-
-Please read these Terms of Use ("Terms") carefully before using the DR0PNET Honeypot software application ("Software") developed by Joshua Marr ("Developer").
-
-1. Acceptance of Terms
-By downloading, installing, or using the Software, you agree to be bound by these Terms. If you do not agree to these Terms, do not install or use the Software.
-
-2. License Grant
-You are granted a non-transferable, non-exclusive license to use the Software for personal, research, educational, or commercial use in accordance with the terms stated herein.
-
-3. Updates
-The Developer may provide updates to the Software. These Terms apply to all updates unless otherwise specified.
-
-4. Disclaimer of Warranty
-The Software is provided “as is” without warranties of any kind. The Developer does not guarantee that the Software will be error-free, secure, or operate without interruption.
-
-5. Limitation of Liability
-In no event shall the Developer be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Software.
-
-6. Termination
-These Terms are effective until terminated. Your rights under these Terms will terminate automatically if you fail to comply with them.
-
-7. Governing Law
-These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions.
-
-
-By using the Software, you acknowledge that you have read, understood, and agreed to these Terms of Use.
-
-
-© 2025 Joshua Marr. All rights reserved.  
-“DR0PNET” is a trademark™ of Joshua Marr. Trademark registration pending. 
