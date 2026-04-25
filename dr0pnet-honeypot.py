@@ -226,11 +226,6 @@ Each trap is self-contained and runs in its own subprocess. Major modules includ
     - Go to settings enter http://<honeypot-pc-ip>:5050
     - Hit save and enable the Auto-refresh switch to see current updates every 10 sec.
 
-## Support
-----------
-    - For help, bug reports, or suggestions, contact:
-    - Email: dr0pnethp@gmail.com 
-    - Twitter: DR0PNET @dr0pnetHoneyPot
  
 * * * * * * * * * * DR0PNET Honeypot Privacy Disclaimer * * * * * * * * * *
 
@@ -277,26 +272,6 @@ By interacting with this application, you consent to monitoring and logging as d
 consent, you should discontinue use immediately.
 
 
-* * * * * * * * * * License * * * * * * * * * * 
-
-
-DR0PNET Commercial License
-Copyright (c) 2025 Joshua Marr
-
-This software is licensed, not sold. Unauthorized distribution, copying, or reverse engineering is prohibited.
-
-You may:
-- Install and use the Software on personal or organizational devices
-
-You may not:
-- Modify, reverse-engineer, or redistribute the Software without written permission
-- Use the Software to harm others or violate laws
-
-This software is provided "as is" without warranty. The developer is not responsible for any damage caused by use or misuse of the software.
-
-By installing or using this software, you agree to these terms.
-
-
 * * * * * * * * * * Terms of Use  * * * * * * * * * * 
 
 
@@ -341,9 +316,6 @@ For questions regarding these Terms, please contact: dr0pnethp@gmail.com
 
 By using the Software, you acknowledge that you have read, understood, and agreed to these Terms of Use.
 
-
-© 2025 Joshua Marr. All rights reserved.  
-“DR0PNET” is a trademark™ of Joshua Marr. Trademark registration pending.
 
 
 """
